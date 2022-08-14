@@ -12,3 +12,4 @@ https://web.archive.org/web/20220814213357/http://www.labofapenetrationtester.co
 
 https://web.archive.org/web/20220814212638/http%3A%2F%2Fwww.labofapenetrationtester.com%2F2014%2F11%2Fpowershell-for-client-side-attacks.html
 
+https://web.archive.org/web/20220814231832/https://sl1nki.page/pentest/reverse-shells
